@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Duong</title>
-    <link>http://example.org/</link>
+    <link>https://johntduong.github.io/portfolio/</link>
     <description>Recent content on John Duong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Untitled.</copyright>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johntduong.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

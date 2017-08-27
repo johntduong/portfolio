@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "John Duong"
-baseurl = "https://johntduong.github.io/portfolio/"
+baseurl = "//johntduong.github.io/portfolio/"
 publishDir = "docs"
 theme = "prologue"
 

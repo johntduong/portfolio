@@ -1,6 +1,7 @@
 languageCode = "en-us"
 title = "John Duong"
 baseurl = "http://example.org/"
+publishDir = "docs"
 theme = "prologue"
 
 [params]

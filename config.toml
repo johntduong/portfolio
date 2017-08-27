@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseurl = "https://johntduong.github.io/portfolio/"
+baseurl = "https://johntduong.github.io/portfolio"
 title = "John Duong"
 publishDir = "docs"
 themesDir = "themes"

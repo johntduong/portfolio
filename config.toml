@@ -11,11 +11,6 @@ theme = "prologue"
   copyright = "Untitled."
 
 [[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/john.duong.714"
-
-[[params.social]]
   medium = "github"
   icon = "github"
   link = "https://github.com/johntduong"
@@ -37,12 +32,14 @@ theme = "prologue"
   alt = ""
   source = "img/eventscore.png"
   url = "https://github.com/johntduong/Eventscore"
+  description = "EventScore is a mobile app for iOS that recommends concerts based on scores calculated using market trend, artist followers, ticket demand, and social perception. Built with React Native, Redux, Node.js, and MongdoDB."
 
 [[params.portfolio1]]
   title = "Quotely"
   alt = ""
   source = "img/quotely.png"
   url = "https://github.com/johntduong/Quoted"
+  description = "Quotely is a group SMS management platform for sending and receiving text or voice messages to nearby businesses or contacts. Built with React, and MongoDB."
 
 # Portfolio column two
 
@@ -51,5 +48,6 @@ theme = "prologue"
   alt = ""
   source = "img/forkly.png"
   url = "https://forkly-shielded-oasis-16105.herokuapp.com/"
+  description = "Forkly is a recipe app with version control that lets users fork and improve on shared cooking recipes. Built with React, Node.js, and MongoDB."
 
 # Portfolio column 3

@@ -1618,6 +1618,13 @@
 			margin: 1em 0 0 0;
 		}
 
+	.description {
+		margin: 0 0 0 0;
+    font-size: 15px;
+    padding: 0 15px;
+    text-align: left;
+	}
+
 	footer {
 		margin: 2em 0 0 0;
 	}
@@ -1948,6 +1955,7 @@
 
 			.item header h3 {
 				font-size: 1em;
+				font-weight: 900;
 			}
 
 /* Icons */

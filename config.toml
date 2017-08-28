@@ -36,13 +36,13 @@ theme = "prologue"
   title = "EventScore"
   alt = ""
   source = "img/eventscore.png"
-  url = "#"
+  url = "https://github.com/johntduong/Eventscore"
 
 [[params.portfolio1]]
   title = "Quotely"
   alt = ""
   source = "img/quotely.png"
-  url = "#"
+  url = "https://github.com/johntduong/Quoted"
 
 # Portfolio column two
 

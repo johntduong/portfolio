@@ -32,24 +32,24 @@ theme = "prologue"
 
 # Portfolio column one
 
-# Portfolio column two
-
-[[params.portfolio2]]
+[[params.portfolio1]]
   title = "EventScore"
   alt = ""
   source = "img/eventscore.png"
   url = "#"
+
+[[params.portfolio1]]
+  title = "Quotely"
+  alt = ""
+  source = "img/quotely.png"
+  url = "#"
+
+# Portfolio column two
 
 [[params.portfolio2]]
   title = "Forkly"
   alt = ""
   source = "img/forkly.png"
   url = "https://forkly-shielded-oasis-16105.herokuapp.com/"
-
-[[params.portfolio2]]
-  title = "Quotely"
-  alt = ""
-  source = "img/quotely.png"
-  url = "#"
 
 # Portfolio column 3

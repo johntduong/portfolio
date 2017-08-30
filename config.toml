@@ -7,8 +7,7 @@ theme = "prologue"
 
 [params]
   name = "John Duong"
-  description = "Software Developer"
-  copyright = "Untitled."
+  description = "Software Engineer"
 
 [[params.social]]
   medium = "github"
@@ -21,6 +20,11 @@ theme = "prologue"
   link = "https://www.linkedin.com/in/johntduong/"
 
 [[params.social]]
+  medium = "angellist"
+  icon = "angellist"
+  link = "https://angel.co/john-duong-3"
+
+[[params.social]]
   medium = "email"
   icon = "envelope"
   link = "mailto:duong.johnpaul@gmail.com"
@@ -28,18 +32,18 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "EventScore"
-  alt = ""
-  source = "img/eventscore.png"
-  url = "https://github.com/johntduong/Eventscore"
-  description = "EventScore is a mobile app for iOS that recommends concerts based on scores calculated using market trend, artist followers, ticket demand, and social perception. Built with React Native, Redux, Node.js, and MongdoDB."
-
-[[params.portfolio1]]
   title = "Quotely"
   alt = ""
   source = "img/quotely.png"
   url = "https://github.com/johntduong/Quoted"
-  description = "Quotely is a group SMS management platform for sending and receiving text or voice messages to nearby businesses or contacts. Built with React, and MongoDB."
+  description = "Quotely is a group SMS management platform for sending and receiving text or voice messages to nearby businesses or contacts. Built with React and MongoDB."
+
+[[params.portfolio1]]
+  title = "EventScore"
+  alt = ""
+  source = "img/eventscore.png"
+  url = "https://github.com/johntduong/Eventscore"
+  description = "EventScore is a mobile app that recommends concerts based on scores calculated using numer of followers, ticket demand, and social perception. Built with React Native, Redux, Node.js, and MongdoDB."
 
 # Portfolio column two
 

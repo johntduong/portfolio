@@ -1618,7 +1618,7 @@
 			margin: 1em 0 0 0;
 		}
 
-	.description {
+	.portdescription {
 		margin: 0 0 0 0;
     font-size: 15px;
     padding: 0 15px;
@@ -1788,6 +1788,23 @@
 		}
 
 /* Form */
+
+  .background {
+  	text-align: left;
+  }
+  .backgroundheader {
+  	font-weight: 900;
+  }
+
+  .course {
+  	margin-bottom: -11px;
+  	color: #666666;
+  }
+
+  .institution {
+  	margin-bottom: 0;
+  	font-size: 18px;
+  }
 
 	form label {
 		display: block;

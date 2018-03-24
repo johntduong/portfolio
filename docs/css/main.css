@@ -1620,9 +1620,9 @@
 
 	.portdescription {
 		margin: 0 0 0 0;
-    font-size: 15px;
-    padding: 0 15px;
-    text-align: left;
+		/* font-size: 15px; */
+		padding: 0 15px;
+		text-align: left;
 	}
 
 	footer {
@@ -2224,13 +2224,13 @@
 			}
 
 .typewriter p {
-	overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  /* border-right: .15em solid rgb(235, 235, 235); The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 3.5s steps(40, end),
+    typing 4s steps(40, end),
     blink-caret .75s step-end infinite;
 }
 
@@ -2241,7 +2241,7 @@
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange; }
+  50% { border-color: rgb(240, 240, 240); }
 }
 
 /* Wide */
@@ -2603,4 +2603,8 @@
 					margin-top: 0;
 				}
 
+	}
+
+	.col {
+		width: 50%;
 	}
